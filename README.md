@@ -14,3 +14,4 @@ sl.no | lab no | date | question/description | link
 4     | 4      |05/09 |As a data analyst specialist, gather insights from their customers' orders received for Farmers' Harvest in Freshville over time and display them to Emily as she uses your Application.|https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh.git
 5     | 5      |12/09 |Write a program for collecting a string from the user and counting the number of vowels Print the total count of vowels Print each vowel and its count Calculate the percentage of vowels in the given string|https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh.git
 6     | 6      |14/09 |Mix and Match calculator  |https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh.git
+7     | 7      |21/09 |expense tracker    | https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/blob/cdbf69eeb1a0c829fe44097a78d6a5597940d3a3/lab07.ipynb
