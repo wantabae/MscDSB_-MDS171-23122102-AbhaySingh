@@ -6,6 +6,12 @@ Class : MSc DS B
 Email : Abhay.singh@msds.christuniversity.in     
 
 
+*
+#*
+# *Index*
+*
+
+
 index table
 |sl.no|lab no|date|question/description|link|
 |:----:|:----:|:----:|:----:|:----:|:----:|
