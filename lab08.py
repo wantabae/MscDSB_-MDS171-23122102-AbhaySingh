@@ -1,29 +1,36 @@
 class Stack:
     def __init__(self):
+        # Initialize an empty list to store stack elements
         self.items = []
 
     def push(self, item):
+        # Push an item onto the stack by appending it to the list
         self.items.append(item)
 
     def pop(self):
+        # Pop an item from the stack if it's not empty, otherwise, raise an error
         if not self.is_empty():
             return self.items.pop()
         else:
             raise IndexError("Pop from an empty stack")
 
     def print_stack(self):
+        # Print the elements of the stack
         print(self.items)
 
     def size(self):
+        # Return the size (number of elements) of the stack
         return len(self.items)
 
     def top(self):
+        # Return the top item of the stack if it's not empty, otherwise, return None
         if not self.is_empty():
             return self.items[-1]
         else:
             return None
 
     def is_empty(self):
+        # Check if the stack is empty
         return len(self.items) == 0
 
 # Create a stack
