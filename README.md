@@ -21,3 +21,4 @@ index table
 |6.|6|14/09|Mix and Match calculator|[Lab06](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/blob/58576a01e5b5b82b0c0196fd5f5ae689cb238299/lab06.ipynb/lab%2006.ipynb)|
 |7.|7|21/09|expense tracker|[Lab07](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/blob/cdbf69eeb1a0c829fe44097a78d6a5597940d3a3/lab07.ipynb)|
 |8.|8|03/10|Stack in python|[Lab08](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/blob/ff0ca4f4e532ad3fc05165b9c188880f29fc5a32/lab08.py)|
+|9.|9|10/10|Store Pet Details|[Lab09]
