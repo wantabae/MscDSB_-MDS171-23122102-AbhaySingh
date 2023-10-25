@@ -23,4 +23,3 @@ index table
 |8.|8|03/10|Stack in python|[Lab08](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/blob/ff0ca4f4e532ad3fc05165b9c188880f29fc5a32/lab08.py)|
 |9.|9|10/10|Store Pet Details|[Lab09](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/tree/e26db18d0da8e8aab091a17b3baa704b1dec48ed/lab09)|
 |10.|CAC1|18/09|CAC1|[CAC1](https://github.com/sudeshnagh22/MScDSB-MDS171-23122134-Sudeshna/blob/ecede9bd5f1df647214e777d464be076ba760b17/Python%20Group%20Assignment.ipynb)|
-|11.|CAC2|25/10|Campus Facilities|[CAC2]()
