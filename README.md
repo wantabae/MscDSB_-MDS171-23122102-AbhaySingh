@@ -24,3 +24,5 @@ index table
 |9.|9|10/10|Store Pet Details|[Lab09](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/tree/e26db18d0da8e8aab091a17b3baa704b1dec48ed/lab09)|
 |10.|CAC1|29/09|Expense Tracker|[CAC1](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/blob/297bae91487358f9ffdc17a73de2dee2f639ab00/CAC1/Python%20Group%20Assignment.ipynb)|
 |11.|CAC2|25/10|Campus Facilities|[CAC2](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/blob/297bae91487358f9ffdc17a73de2dee2f639ab00/CAC2/d2.ipynb)|
+|12.|10|26/10|Student details|[Lab10](https://github.com/wantabae/MscDSB_-MDS171-23122102-AbhaySingh/blob/0c6b1c81da98855da8311fa3c8b5a44957a19165/lab10.py)|
+|13.|Practice|Practice|[Practice]|
